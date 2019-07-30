@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Registrasi</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">masuk</string>
+    <string name="namalengkap">Nama Lengkap</string>
+    <string name="tempatlahir">Tempat Lahir</string>
+    <string name="jeniskelamin">Jenis Kelamin (Pria/Wanita)</string>
+    <string name="tanggallahir">Tanggal Lahir (tgl/bln/tahun)</string>
+    <string name="nomorid">Nomor Identitas/KTP</string>
+    <string name="alamat">Alamat</string>
+    <string name="kodepos">Kode Pos</string>
+    <string name="nomortelpon">Nomor Telpon</string>
+    <string name="register">Simpan</string>
+    <string name="back_to_login">Kembali ke Login</string>
+</resources>
